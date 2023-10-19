@@ -10,7 +10,7 @@
 #include "User/User.hpp"
 #include "User/LocalUser.hpp"
 
-#include "CMD.hpp"
+#include "CMD/CMD.hpp"
 #include "Config.hpp"
 
 class Terminal
